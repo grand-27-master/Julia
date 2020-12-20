@@ -1,2 +1,1 @@
 # Julia
-![title](car.jpeg)
